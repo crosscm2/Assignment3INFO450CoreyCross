@@ -81,7 +81,6 @@ int main()
 	} while (selection != 5);
 
 
-	system("pause");
 	return 0;
 }
 
